@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "lotNumber": 100001,
+      "startDate": 1521052200000,
+      "endDate": 1522348200000,
+      "image":"./assets/images.jpg",
+      "title":"Collector Car Auction",
+      "company": 1,
+      "companyName": "Tesla",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 100032,
+      "startDate": 1520965800000,
+      "endDate": 1522261800000,
+      "image":"./assets/img1.jpg",
+      "title":"Land Rover Auction",
+      "company": 2,
+      "companyName": "Land Rover",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 3,
+      "startDate": 1520793000000,
+      "endDate": 1522175400000,
+      "image":"./assets/img2.jpg",
+      "title":"Silver Anniversary Auction",
+      "company": 3,
+      "companyName": "Rolls-Royce",
+      "isExisting": true,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 200434,
+      "startDate": 1520706600000,
+      "endDate": 1522002600000,
+      "image":"./assets/img3.jpg",
+      "title":"Bentley Car Auction",
+      "company": 4,
+      "companyName": "Bentley",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 390035,
+      "startDate": 1520620200000,
+      "endDate": 1522002600000,
+      "image":"./assets/img4.jpg",
+      "title":"Car Auction",
+      "company": 5,
+      "companyName": "Aston Martin",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 209406,
+      "startDate": 1520620200000,
+      "endDate": 1522002600000,
+      "image":"./assets/img4.jpg",
+      "title":"Collector",
+      "company": 5,
+      "companyName": "Aston Martin",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 2009407,
+      "startDate": 1520620200000,
+      "endDate": 1522002600000,
+      "image":"./assets/img4.jpg",
+      "title":"Collector Car Auction",
+      "company": 5,
+      "companyName": "Aston Martin",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    },
+    {
+      "lotNumber": 1908938,
+      "startDate": 1520620200000,
+      "endDate": 1522002600000,
+      "image":"./assets/img4.jpg",
+      "title":"Auction",
+      "company": 5,
+      "companyName": "Aston Martin",
+      "isExisting": false,
+      "itemImages":[
+        "./assets/images.jpg",
+        "./assets/img1.jpg",
+        "./assets/img2.jpg",
+        "./assets/img3.jpg",
+        "./assets/img4.jpg"
+      ]
+    }
+  ],
+  "totalLength": 30
+}
